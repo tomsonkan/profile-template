@@ -24,8 +24,8 @@ skills:
 github: https://github.com/tomsonkan
 linkedin: https://www.linkedin.com/in/tomson-kan/
 
-email: # email for professional use
-phone: # cell number
+email: tomson.kan@gmail.com
+phone: 832-630-4568
 
 # Make sure to edit these to be accurate for your work! The more relevant the better if the role was technical, don't feel like you need to put every job you've had.
 
